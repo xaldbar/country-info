@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3862867f-9784-453e-a126-9c76008b0012" name="Changes" comment="" />
+    <list default="true" id="3862867f-9784-453e-a126-9c76008b0012" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/features/controls/controls-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/controls/use-cleanup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/controls/use-region.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/controls/use-search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/countries/CountryList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/countries/countries-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/details/CountryDetails.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/details/details-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/details/use-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/theme/theme-slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/features/theme/use-theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Controls.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/controls/Controls.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CustomSelect.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/controls/CustomSelect.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Info.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/details/Info.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Search.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/controls/Search.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Details.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Details.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/HomePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/controls/controls-actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/controls/controls-reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/controls/controls-selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/countries/countries-actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/countries/countries-reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/countries/countries-selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/details/details-actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/details/details-reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/details/details-selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/root-reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/theme/theme-actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/theme/theme-reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +48,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -30,7 +68,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="25kUA1tbMfQGnjvY5Glf6naMeFu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,6 +87,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexd\dev\pets\country-info\src\features\details" />
+      <recent name="C:\Users\alexd\dev\pets\country-info\src\features\controls" />
       <recent name="C:\Users\alexd\dev\pets\country-info\src\components\Loader" />
       <recent name="C:\Users\alexd\dev\pets\country-info\src\store" />
     </key>
@@ -78,7 +120,7 @@
       <updated>1646070442131</updated>
       <workItem from="1646070446258" duration="351000" />
       <workItem from="1646652711606" duration="15246000" />
-      <workItem from="1646765112108" duration="1691000" />
+      <workItem from="1646765112108" duration="7389000" />
     </task>
     <servers />
   </component>
