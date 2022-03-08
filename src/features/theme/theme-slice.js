@@ -1,11 +1,15 @@
 import { createSlice } from '@reduxjs/toolkit';
 
+const initialState = localStorage.getItem('country-info:theme') || 'light';
 
 const themeSlice = createSlice({
   name: '@@theme',
-  initialState: 'light',
+  initialState,
   reducers: {
-    setTheme: (_, action) => action.payload,
+    setTheme: (_, action) => {
+      localStorage.setItem('country-info:theme', action.payload);
+      return action.payload;
+    },
   }
 });
 
