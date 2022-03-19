@@ -2,43 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3862867f-9784-453e-a126-9c76008b0012" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/features/controls/controls-slice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/controls/use-cleanup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/controls/use-region.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/controls/use-search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/countries/CountryList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/countries/countries-slice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/details/CountryDetails.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/details/details-slice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/details/use-details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/theme/theme-slice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/theme/use-theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Controls.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/controls/Controls.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CustomSelect.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/controls/CustomSelect.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Info.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/details/Info.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Search.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/controls/Search.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Details.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Details.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/HomePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/controls/controls-actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/controls/controls-reducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/controls/controls-selectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/countries/countries-actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/countries/countries-reducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/countries/countries-selectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/details/details-actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/details/details-reducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/details/details-selector.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/root-reducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/theme/theme-actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/theme/theme-reducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/countries/CountryList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/countries/CountryList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/details/CountryDetails.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/details/CountryDetails.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,10 +45,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dashboard-app-starter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-quiz" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -120,7 +86,11 @@
       <updated>1646070442131</updated>
       <workItem from="1646070446258" duration="351000" />
       <workItem from="1646652711606" duration="15246000" />
-      <workItem from="1646765112108" duration="7741000" />
+      <workItem from="1646765112108" duration="8901000" />
+      <workItem from="1646779698199" duration="172000" />
+      <workItem from="1646779903331" duration="1607000" />
+      <workItem from="1646858053213" duration="27000" />
+      <workItem from="1647721283654" duration="301000" />
     </task>
     <servers />
   </component>
